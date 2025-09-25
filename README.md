@@ -11,9 +11,9 @@ By answering five key questions, this report highlights the main contributors to
  
 1. How has the total population of concern changed over time (2019–2024)?
 
-![Table 1](Data_Analysis_Portfolio/Refugee_Asylum_NGO_Portfolio_Project/Images/Q1-Portfolio-image-1-1.png)
+![Table 1](Refugee_Asylum_NGO_Portfolio_Project/Images/Q1-Portfolio-image-1-1.png)
 
-![Chart 1](Data_Analysis_Portfolio/Refugee_Asylum_NGO_Portfolio_Project/Images/Q1-Portfolio-image-1.png)
+![Chart 1](Refugee_Asylum_NGO_Portfolio_Project/Images/Q1-Portfolio-image-1.png)
 
 * The population of concern increased from **4.27 million in 2019** to **6.59 million in 2024**, reflecting a **total growth of 55%** over the period.
 
@@ -27,9 +27,9 @@ By answering five key questions, this report highlights the main contributors to
 
 2. What percentage of the total population of concern are refugees each year?
 
-![Table 2](Data_Analysis_Portfolio/Refugee_Asylum_NGO_Portfolio_Project/Images/Q2-Portfolio-image-2-1.png)
+![Table 2](Refugee_Asylum_NGO_Portfolio_Project/Images/Q2-Portfolio-image-2-1.png)
 
-![Chart 2](Data_Analysis_Portfolio/Refugee_Asylum_NGO_Portfolio_Project/Images/Q2-Portfolio-image-2-2.png)
+![Chart 2](Refugee_Asylum_NGO_Portfolio_Project/Images/Q2-Portfolio-image-2-2.png)
 
 * Refugees made up a relatively **small but consistent proportion** of the population of concern, averaging around **4–5% annually**.
 
@@ -39,9 +39,9 @@ By answering five key questions, this report highlights the main contributors to
 
 3. Which year had the highest number of stateless persons?
 
-![Table 3](Data_Analysis_Portfolio/Refugee_Asylum_NGO_Portfolio_Project/Images/Q3-Portfolio-image-3-1.png)
+![Table 3](Refugee_Asylum_NGO_Portfolio_Project/Images/Q3-Portfolio-image-3-1.png)
 
-![Chart 3](Data_Analysis_Portfolio/Refugee_Asylum_NGO_Portfolio_Project/Images/Q3-Portfolio-image-3.png)
+![Chart 3](Refugee_Asylum_NGO_Portfolio_Project/Images/Q3-Portfolio-image-3.png)
 
 * The number of stateless persons remained **consistently high**, ranging between **4.17 million and 4.43 million**.
 
@@ -51,9 +51,9 @@ By answering five key questions, this report highlights the main contributors to
 
 4. What is the year-on-year growth rate of the total population of concern?
 
-![Table 4](Data_Analysis_Portfolio/Refugee_Asylum_NGO_Portfolio_Project/Images/Q4-Portfolio-image-4-1.png)
+![Table 4](Refugee_Asylum_NGO_Portfolio_Project/Images/Q4-Portfolio-image-4-1.png)
 
-![Chart 4](Data_Analysis_Portfolio/Refugee_Asylum_NGO_Portfolio_Project/Images/Q4-Portfolio-image-4.png)
+![Chart 4](Refugee_Asylum_NGO_Portfolio_Project/Images/Q4-Portfolio-image-4.png)
 
 Growth fluctuated significantly:
 
@@ -73,11 +73,11 @@ This suggests a spike in 2022 followed by a leveling off.
 
 5. Which category of displaced people contributes the most to the total each year?
 
-![Table 5](Data_Analysis_Portfolio/Refugee_Asylum_NGO_Portfolio_Project/Images/Q5-Portfolio-image-5.png)
+![Table 5](Refugee_Asylum_NGO_Portfolio_Project/Images/Q5-Portfolio-image-5.png)
 
-![Table 5-1](Data_Analysis_Portfolio/Refugee_Asylum_NGO_Portfolio_Project/Images/Q5-Portfolio-image-5-1-2.png)
+![Table 5-1](Refugee_Asylum_NGO_Portfolio_Project/Images/Q5-Portfolio-image-5-1-2.png)
 
-![Chart 5](Data_Analysis_Portfolio/Refugee_Asylum_NGO_Portfolio_Project/Images/Q5-Portfolio-image-5-1.png)
+![Chart 5](Refugee_Asylum_NGO_Portfolio_Project/Images/Q5-Portfolio-image-5-1.png)
 
 * The distribution shows **stateless persons consistently contributing the largest share** of the total, averaging **13–19% annually**.
 
