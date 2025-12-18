@@ -58,7 +58,15 @@ Key performance indicators were implemented using **DAX measures** to ensure cor
 
 Measures were prioritized over raw columns to avoid misleading totals.
 
+## Homepage
+![Homepage](/Data_Analysis_Portfolio/NGO_Program_Performance_&_Impact_Dashboard_Project_2/Images/NGO_Program_Home.png)
+
+
+
 ## Dashboard Overview
+
+![Dashboard 1](/Data_Analysis_Portfolio/NGO_Program_Performance_&_Impact_Dashboard_Project_2/Images/NGO_Program_Dashboard.png)
+
 The dashboard presents **four integrated visuals** on a single page:
 
 1. Budget vs Actual Spending
@@ -71,28 +79,29 @@ The dashboard presents **four integrated visuals** on a single page:
 
 Four KPI cards provide executive context at the top of the dashboard.
 
+
 ## Visual Analysis & Insights
 
 ### Budget vs Actual Spending (by Program)
-![Chart-1](NGO_Program_Performance_&_Impact_Dashboard_Project_2/Images/Budget_vs_Actual_Spending.png)
+![Chart-1](/Data_Analysis_Portfolio/NGO_Program_Performance_&_Impact_Dashboard_Project_2/Images/Budget_vs_Actual_Spending.png)
 
 #### Insight
 Spending closely aligns with approved budgets across programs, demonstrating strong financial control and accountability.
 
 ### Cost per Beneficiary (by Program)
-![Chart-2](NGO_Program_Performance_&_Impact_Dashboard_Project_2/Images/Cost_per_Beneficiaries.png)
+![Chart-2](/Data_Analysis_Portfolio/NGO_Program_Performance_&_Impact_Dashboard_Project_2/Images/Cost_per_Beneficiaries.png)
 
 #### Insight
 Cost efficiency varies by program type, reflecting differences in operational complexity and intervention scope.
 
 ### Outcome Rate (%) by Program
-![Chart-3](NGO_Program_Performance_&_Impact_Dashboard_Project_2/Images/Outcome_Rate.png)
+![Chart-3](/Data_Analysis_Portfolio/NGO_Program_Performance_&_Impact_Dashboard_Project_2/Images/Outcome_Rate.png)
 
 #### Insight
 Most programs meet or exceed outcome benchmarks, with slight underperformance in recovery-focused interventions.
 
 ### Total Affected vs Beneficiaries Served
-![Chart-4](NGO_Program_Performance_&_Impact_Dashboard_Project_2/Images/Total_Affected_vs_Beneficiaries_Served.png)
+![Chart-4](/Data_Analysis_Portfolio/NGO_Program_Performance_&_Impact_Dashboard_Project_2/Images/Total_Affected_vs_Beneficiaries_Served.png)
 
 #### Insight
 Significant coverage gaps remain, highlighting unmet needs and supporting justification for additional funding.
